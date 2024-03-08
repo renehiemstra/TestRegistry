@@ -16,6 +16,10 @@ Registry = {
             path = "D/DepDep",
             uuid = "26609f9c-bf86-4ba2-86db-c927209938d9",
         },
+        Example = {
+            path = "E/Example",
+            uuid = "b47cbb7a-f315-4482-8f8d-853a75c1dba9",
+        },
     },
 }
 return Registry
