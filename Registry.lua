@@ -4,10 +4,6 @@ Registry = {
     url  = "git@github.com:renehiemstra/TestRegistry",
     description = "Cosm local package registry",
     packages = {
-        DepA = {
-            path = "D/DepA",
-            uuid = "293c2656-20e9-4376-9642-e8df3a1d3d60",
-        },
         DepB = {
             path = "D/DepB",
             uuid = "5a015884-e4e3-405f-b3ca-9cfaf43a7039",
